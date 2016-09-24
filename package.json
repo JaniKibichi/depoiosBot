@@ -1,0 +1,11 @@
+{
+  "name": "depoio",
+  "version": "0.0.0",
+  "description": "using depoio's library to build bots and track analytics using botanio",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "janikibichi",
+  "license": "BSD-2-Clause"
+}
